@@ -37,6 +37,8 @@ CGFloat const btnHeight = 45;
     [self initTabBarView];
 }
 
+//this is the test about git study 
+
 //初始化视图控制器
 - (void)initViewController{
     ProfileViewController *profileVC = [[ProfileViewController alloc]init];
